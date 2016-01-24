@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.840116
+  lightness: 0.722973
+  rhythmicContrast: 0.828828
+  saturation: 0.75
+cta: {}
+layout_spectrum: 0.176801
+name: amazing-indonesia
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.726351
