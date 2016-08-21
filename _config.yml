@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.726351
 color:
   brandColors:
     - '#FF6700'
@@ -10,9 +10,10 @@ color:
   lightness: 0.722973
   rhythmicContrast: 0.828828
   saturation: 0.75
-cta: {}
-layout_spectrum: 0.176801
-name: amazing-indonesia
 opengraph: {}
+layout_spectrum: 0.176801
+analytics: {}
+name: amazing-indonesia
+cta: {}
+description: See our smile
 purpose: {}
-typography_spectrum: 0.726351
