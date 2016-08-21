@@ -15,5 +15,9 @@ layout_spectrum: 0.176801
 analytics: {}
 name: amazing-indonesia
 cta: {}
+navigation:
+  - name: Our smile
+    id: 12029a06-3d32-415a-a5d2-e39474f3d43b
+    type: content
 description: See our smile
 purpose: {}
